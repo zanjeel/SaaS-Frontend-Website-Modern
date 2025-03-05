@@ -169,5 +169,5 @@ Give a ⭐️ if this project helped you!
 ---
 
 <div align="center">
-Made with ❤️ by developers, for developers
+Made with ❤️ by Zeej
 </div>
